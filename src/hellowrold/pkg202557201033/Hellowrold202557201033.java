@@ -16,7 +16,7 @@ public class Hellowrold202557201033 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("hello wrold");
-        System.out.println("najwa naghmatun faizah 202557201033");
+        System.out.println("najwa faizah 202557201033");
     }
     
 }
